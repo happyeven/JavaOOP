@@ -1,5 +1,5 @@
 # JavaOOP
-### JavaOOP仓库文件及目录如下
+### JavaOOP仓库核心文件及目录如下
 
 JavaOOP
       
